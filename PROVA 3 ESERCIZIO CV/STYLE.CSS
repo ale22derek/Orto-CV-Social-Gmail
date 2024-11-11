@@ -1,0 +1,25 @@
+header{
+  background-color: lightgrey;
+  background-image:img_3579.jpg lightgrey;
+  text-align: center;
+}
+main{
+  padding: 8px;
+}
+
+ body hr{
+  border-color: red;
+  border-width: 3px;
+}
+
+section > H2{
+  color: red;
+}
+
+section > h3{
+  font-style: italic;
+}
+
+footer{
+  font-style: italic;
+}
